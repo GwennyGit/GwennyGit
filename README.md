@@ -1,10 +1,12 @@
-### 👋🏻 Greetings
+## 👋🏻 Greetings
+
+### :brain: About me:
 
 My name is Gwendolyn Olivia Gusak. I am currently enrolled as master student in Bioinformatics at the University of Tübingen.<br>
 The topic of my master thesis is the 'Reconstruction of strain-specific metabolic models of _Staphylococcus haemolyticus_'. <br>
 🧫>🦠>🧬>💻>🧫
 
-### 📫 How to reach me:
+### 📯 Contact:
 [![0000-0002-8206-2576](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8206-2576)
 
 <!--

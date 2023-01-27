@@ -5,7 +5,7 @@ The topic of my master thesis is the 'Reconstruction of strain-specific metaboli
 🧫>🦠>🧬>💻>🧫
 
 ### 📫 How to reach me:
-![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)
+[![0000-0002-8206-2576](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-8206-2576)
 
 <!--
 **GwennyGit/GwennyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

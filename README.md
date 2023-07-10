@@ -2,8 +2,9 @@
 
 ### :brain: About me:
 
-My name is Gwendolyn Olivia Gusak. I am currently enrolled as master student in Bioinformatics at the University of Tübingen.<br>
-The topic of my master thesis is the 'Reconstruction of strain-specific metabolic models of _Staphylococcus haemolyticus_'. <br>
+My name is Gwendolyn Olivia Gusak. I am a research assistant in Computational Systems Biology of Infections and Antimicrobial-Resistant Pathogens at the University of Tübingen. Before that, I was a master’s student in Bioinformatics at the same University.<br>
+The topic of my master thesis is the ‘Reconstruction of strain-specific metabolic models of _Staphylococcus haemolyticus_’. <br>
+During my research assistant position, I will continue to work on the strain-specific metabolic models of _Staphylococcus haemolyticus_ and the tool refineGEMs I already extended during my master thesis.
 🧫>🦠>🧬>💻>🧫
 
 ### 📯 Contact:

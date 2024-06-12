@@ -2,9 +2,9 @@
 
 ### :brain: About me:
 
-My name is Gwendolyn Olivia Döbel. I am a research assistant in Computational Systems Biology of Infections and Antimicrobial-Resistant Pathogens at the University of Tübingen. Before that, I was a master’s student in Bioinformatics at the same University.<br>
-The topic of my master thesis is the ‘Reconstruction of strain-specific metabolic models of _Staphylococcus haemolyticus_’.<br>
-During my research assistant position, I will continue to work on the strain-specific metabolic models of _Staphylococcus haemolyticus_ and the tool refineGEMs I already extended during my master thesis.<br>
+My name is Gwendolyn Olivia Döbel. I am a research assistant in Bioinformatics and Data Analytics at the Martin Luther University Halle-Wittenberg. Before that, I was a research assistant in  Computational Systems Biology of Infections and Antimicrobial-Resistant Pathogens at the Eberhard Karl University Tübingen.<br>
+I studied Biology for my bachelor's degree and Bioinformatics for my master's degree at the Eberhard Karl University Tübingen. The topic of my master thesis is the ‘Reconstruction of strain-specific metabolic models of _Staphylococcus haemolyticus_’.<br>
+During my first and second research assistant position, I have and will continue to work on the strain-specific metabolic models of _Staphylococcus haemolyticus_ and the tool [`refineGEMs`](https://github.com/draeger-lab/refinegems) which I already extended during my master thesis.<br>
 🧫>🦠>🧬>💻>🧫
 
 ### 📯 Contact:
